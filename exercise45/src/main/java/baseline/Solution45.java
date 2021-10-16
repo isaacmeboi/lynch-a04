@@ -9,64 +9,33 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Solution45 {
-    // main method that throws IOException
 
     public static void main(String[] args) throws IOException {
 
-        // create an object of Scanner class
-
         Scanner s = new Scanner(System.in);
 
-        // prompt the name of output file from user
-
         System.out.print("\nEnter the output file : ");
-
         String output = s.next();
-
-        // create an object of ReadFile class
-
         ReadFile rf = new ReadFile();
-
-        // read file
-
         rf.read();
-
-        // get the list contains data of file
-
         List<String> list = rf.getdata();
 
-        // create an object of WriteFile
-//       and passing output file name and list contains data
+        // create an object of WriteFile and pass output file name and list contains data
 
         WriteFile wr = new WriteFile(output, list);
-
-        // write file
-
         wr.writefile();
-
-        // and print the Number of Modifications on console
-
         System.out.println("\nThe Number of Modifications are : "+wr.getModification());
-
-
     }
-
-
 }
 
 class ReadFile{
-
     // instance variable
-
     private ArrayList<String> list;
     private Scanner sc;
-
-    // constructor
 
     public ReadFile() throws FileNotFoundException {
 
         list = new ArrayList<>();
-
         // initialize instance variable
         String userHomeDir = System.getProperty("user.home");
         // pass the path to the file as a parameter
@@ -97,14 +66,10 @@ class ReadFile{
         try
         {
             int i=0;
-
             while( sc.hasNext() )
             {
-
                 // read file line by line and store it into list
-
                 String filedata = sc.nextLine();
-
                 list.add(filedata);
 
 
@@ -117,7 +82,7 @@ class ReadFile{
 
     }
 
-    //return the list
+    //return list
 
     public List<String> getdata() {
 
@@ -128,13 +93,9 @@ class ReadFile{
 }
 class WriteFile{
 
-    // instance variable
-
     private FileWriter writer;
     private int countModification;
     private List<String> list;
-
-    // constructor
 
     public WriteFile(String name, List<String> list) throws IOException {
 
@@ -157,7 +118,7 @@ class WriteFile{
 
             int index = 0;
 
-            // count the modifications
+            // count the mods
 
             while (true) {
                 index = temp.indexOf(str, index);
@@ -168,26 +129,19 @@ class WriteFile{
                     break;
                 }
             }
-
-            // modification
-
+            // mods
             temp = temp.replace("utilize", "use");
-
-            // and write into file
-
             writer.write(temp + "\n");
 
 
         }
-
-        // close the writer object
 
         writer.close();
 
     }
 
 
-    // method that returns the count of modifications
+    // method that returns count of mods
 
     public int getModification() {
 
