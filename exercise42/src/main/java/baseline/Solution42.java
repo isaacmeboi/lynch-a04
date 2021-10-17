@@ -23,13 +23,15 @@ public class Solution42 {
             System.out.println("Error: File Not Found!!");
         }
     }
-    public void Formatting() throws IOException {
+    public String Formatting() throws IOException {
 
         String userHomeDir = System.getProperty("user.home");
+        String Dir = userHomeDir + "\\Desktop\\exercise42_input.txt";
         Solution42 emp = new Solution42();
         System.out.printf("%-17s%-17s%-17s%n", "Last", "First", "Salary");
         System.out.println("----------------------------------------");
         emp.Details(userHomeDir + "\\Desktop\\exercise42_input.txt");
+        return Dir;
     }
 
     // Driver method to test the code

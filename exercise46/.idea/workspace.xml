@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c720e21-12ad-47ed-8ac4-0fc1defce871" name="Changes" comment="skele code">
-      <change beforePath="$PROJECT_DIR$/../exercise42/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise42/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise42/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise42/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise42/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise42/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise42/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise42/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise42/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise42/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise42/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise42/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise42/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise42/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise42/src/main/java/baseline/Solution24.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise42/src/main/java/baseline/Solution42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise43/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise43/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise45/.idea/sonarlint/issuestore/7/8/7885da1447b678f57f33933798105c38322ac9d0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise45/.idea/sonarlint/issuestore/7/e/7e18b8f624be772d4d2319e73601cb0e022171c9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise45/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise45/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise45/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2c720e21-12ad-47ed-8ac4-0fc1defce871" name="Changes" comment="skele code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
