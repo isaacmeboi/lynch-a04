@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="baseline.Solution41Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-17T23:41:41" hostname="LAPTOP-3Q532GHH" time="0.02">
+  <properties/>
+  <testcase name="outputNamesTest()" classname="baseline.Solution41Test" time="0.02"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
