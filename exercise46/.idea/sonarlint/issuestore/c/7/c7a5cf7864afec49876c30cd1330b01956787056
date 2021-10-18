@@ -1,0 +1,11 @@
+
+N
+java:S1117("8Rename "file" which hides the field declared at line 35.(›²»¼
+n
+java:S3012z"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(š¯Ê 
+>
+java:S1068#"(Remove this unused "file" private field.(ïÛú
+ƒ
+java:S1319V"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(‚Æ¡˜
+x
+java:S1488]"[Immediately return this expression instead of assigning it to the temporary variable "Dir".(Ö‡Ë8÷’İ‡É/

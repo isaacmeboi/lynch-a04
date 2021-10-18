@@ -1,7 +1,0 @@
-
-c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶©šÀ
-L
-java:S1172"/Remove this unused method parameter "filename".(¶©šÀ8¹°ŠÉ/
-h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óã÷˜ùÿÿÿÿ
-`
-java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(‘½Îüÿÿÿÿ
