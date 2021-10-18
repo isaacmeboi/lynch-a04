@@ -12,7 +12,7 @@ class Solution45Test {
                 //ensure that the file is being read in the right location
                 ReadFile ca = new ReadFile();
                 String userHomeDir = System.getProperty("user.home");
-                String expected = userHomeDir+"\\Desktop\\exercise44_input.txt";
+                String expected = userHomeDir+"\\Desktop\\exercise45_input.txt";
                 String actual = ca.directory();
                 assertEquals(expected, actual);
         }

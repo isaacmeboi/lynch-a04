@@ -43,7 +43,7 @@ class ReadFile{
         // initialize instance variable
         String userHomeDir = System.getProperty("user.home");
         // pass the path to the file as a parameter
-        File file = new File(userHomeDir + "\\Desktop\\exercise44_input.txt");
+        File file = new File(userHomeDir + "\\Desktop\\exercise45_input.txt");
         sc = new Scanner(file);
 
     }
@@ -57,7 +57,7 @@ class ReadFile{
     }
     public String directory(){
         String userHomeDir = System.getProperty("user.home");
-        return userHomeDir+"\\Desktop\\exercise44_input.txt";
+        return userHomeDir+"\\Desktop\\exercise45_input.txt";
     }
     public String directoryDos(){
         String userHomeDir = System.getProperty("user.home");
