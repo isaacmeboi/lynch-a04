@@ -30,7 +30,7 @@ public class Solution42 {
         Solution42 emp = new Solution42();
         System.out.printf("%-17s%-17s%-17s%n", "Last", "First", "Salary");
         System.out.println("----------------------------------------");
-        emp.Details(userHomeDir + "\\Desktop\\exercise42_input.txt");
+        emp.Details(Dir);
         return Dir;
     }
 

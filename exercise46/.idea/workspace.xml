@@ -4,20 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c720e21-12ad-47ed-8ac4-0fc1defce871" name="Changes" comment="skele code">
-      <change afterPath="$PROJECT_DIR$/src/test/java/baseline/Solution46Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise41/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise41/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise44/.idea/sonarlint/issuestore/5/e/5ed8bc95bcdb167ab4dfbdf85c9a8ea80c8aa4ce" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise44/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise44/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise44/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+    <list default="true" id="2c720e21-12ad-47ed-8ac4-0fc1defce871" name="Changes" comment="code and test code">
+      <change afterPath="$PROJECT_DIR$/../exercise42/src/test/java/baseline/solution42.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise44/.idea/libraries/gson_2_8_2_javadoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise44/src/test/java/baseline/Solution44Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise42/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise42/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise42/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise42/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise42/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise42/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise42/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise42/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise42/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise42/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise42/build/classes/java/main/baseline/Solution42.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise42/build/classes/java/main/baseline/Solution42.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise42/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise42/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise42/src/main/java/baseline/Solution42.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise42/src/main/java/baseline/Solution42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise42/src/test/java/baseline/Solution42Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise42/src/test/java/baseline/Solution42Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise44/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise44/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise44/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise44/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise44/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise44/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise44/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise44/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise44/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise44/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise44/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise44/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise44/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise44/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise44/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise44/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise44/build/classes/java/main/baseline/Solution44.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise44/build/classes/java/main/baseline/Solution44.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise44/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise44/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise44/src/main/java/baseline/Solution44.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise44/src/main/java/baseline/Solution44.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/baseline/Solution46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baseline/Solution46.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634340501448</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="code and test code">
+      <created>1634519739807</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634519739807</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +215,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="skele code" />
-    <option name="LAST_COMMIT_MESSAGE" value="skele code" />
+    <MESSAGE value="code and test code" />
+    <option name="LAST_COMMIT_MESSAGE" value="code and test code" />
   </component>
 </project>

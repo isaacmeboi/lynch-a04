@@ -8,6 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class Solution42Test {
     //ensure that the directory is correct
+
     @Test
             void directoryTest() throws IOException {
         Solution42 ca = new Solution42();
