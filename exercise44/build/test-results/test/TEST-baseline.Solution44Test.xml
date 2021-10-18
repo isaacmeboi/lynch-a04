@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="baseline.Solution44Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-18T03:44:59" hostname="LAPTOP-3Q532GHH" time="0.042">
+<testsuite name="baseline.Solution44Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-18T05:43:40" hostname="LAPTOP-3Q532GHH" time="0.032">
   <properties/>
-  <testcase name="directTest()" classname="baseline.Solution44Test" time="0.042"/>
+  <testcase name="directTest()" classname="baseline.Solution44Test" time="0.032"/>
   <system-out><![CDATA[What is the product name? ]]></system-out>
   <system-err><![CDATA[java.lang.NullPointerException: Cannot invoke "String.equalsIgnoreCase(String)" because "input" is null
-	at baseline.Solution44.parser(Solution44.java:33)
+	at baseline.Solution44.parser(Solution44.java:37)
 	at baseline.Solution44Test.directTest(Solution44Test.java:16)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)

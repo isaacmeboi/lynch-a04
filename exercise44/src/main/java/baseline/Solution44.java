@@ -14,7 +14,7 @@ public class Solution44 {
         JSONParser parser = new JSONParser();
         //read json file using parser & store it
         String userHomeDir = System.getProperty("user.home");
-        String Dir = userHomeDir + "\\Desktop\\exercise44_input.txt";
+        String Dir = userHomeDir + "\\Desktop\\exercise44_input.json";
         Object obj = parser.parse(new FileReader(Dir));
         //reads internal values
         JSONObject jsonObject = (JSONObject) obj;

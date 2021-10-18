@@ -12,7 +12,7 @@ class Solution44Test {
     void directTest() throws IOException, ParseException {
         Solution44 ca = new Solution44();
         String userHomeDir = System.getProperty("user.home");
-        String expected = userHomeDir + "\\Desktop\\exercise44_input.txt";
+        String expected = userHomeDir + "\\Desktop\\exercise44_input.json";
         String actual = ca.parser();
         assertEquals(expected, actual);
     }
